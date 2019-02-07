@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+---
+title: "Bats"
+slug: bats
+draft: false
+---
 
-You can use the [editor on GitHub](https://github.com/GullySock/Start/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##### Author: Caleb Williams  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Handsome Bat](https://www.bluestemprairie.com/.a/6a00d834516a0869e2017c324a5b47970b-800wi "Bat Smiling for the camera")
 
-### Markdown
+Bats are mammals of the order Chiroptera; with their forelimbs adapted as wings, they are the only mammals naturally capable of true and sustained flight.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Bat Behavior
 
-# Header 1
-## Header 2
-### Header 3
+There are many things about bats that make them unique, among them being:
 
-- Bulleted
-- List
+1. Bats are the second largest order of mammals, comprising about 20% of all classified mammal species.
 
-1. Numbered
-2. List
+2. Bats are nocturnal (active at night).
 
-**Bold** and _Italic_ and `Code` text
+3. Most bats feed on insects, while others eat fruit, fish or even blood!
 
-[Link](url) and ![Image](src)
-```
+4. Some bats live by themselves while others live in caves with thousands of other bats.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+5. Vampire bats have small and extremely sharp teeth which are capable of piercing an animal’s skin (humans included) without them even noticing.
 
-### Jekyll Themes
+6. Bats can live for over 20 years.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GullySock/Start/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Handsome Bat](https://i.pinimg.com/originals/11/8c/5c/118c5c0ecef1b382c67af82e85571b4a.jpg "Bat Smiling for the camera")
